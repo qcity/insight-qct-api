@@ -3,7 +3,12 @@
     "description": "A Bitcoin blockchain REST and web socket API service for Bitcore Node.",
     "version": "0.4.3",
     "repository": "git://github.com/qcity/insight-api.git",
-    "contributors": [{
+    "contributors": [
+        {
+            "name": "yangchigi",
+            "email": "jhkim@etra.kr"
+        },
+        {
             "name": "Gustavo Cortez",
             "email": "cmgustavo83@gmail.com"
         },
